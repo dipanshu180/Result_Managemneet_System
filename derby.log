@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Feb 21 02:09:24 IST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0195-2516-26fe-000008069ea8 
+on database directory /home/deep/pyhton/metastore_db with class loader sun.misc.Launcher$AppClassLoader@73a28541 
+Loaded from file:/opt/spark/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=/home/deep/pyhton
+os.name=Linux
+os.arch=amd64
+os.version=6.11.2-amd64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
